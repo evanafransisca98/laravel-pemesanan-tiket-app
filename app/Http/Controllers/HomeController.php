@@ -7,6 +7,7 @@ use App\Tiket;
 use App\Transaksi;
 use DB;
 
+
 class HomeController extends Controller
 {
     /**
